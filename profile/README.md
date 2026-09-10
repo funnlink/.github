@@ -28,14 +28,14 @@ We believe: **open source is not just code sharing — it's an export of enginee
 
 - **[InnoShop](https://github.com/innocommerce/innoshop)** — Open-source e-commerce system (Laravel 12), Community / Enterprise / Factory editions
 - **[InnoCMS](https://github.com/innocms/innocms)** — Lightweight enterprise CMS, open-source distribution
-- **[InnoCRM](https://github.com/innoshop/innocrm)** — CRM platform for the software industry
-- **[InnoCard](https://github.com/funnlink/innocard)** — Membership SaaS for service small businesses
-- **[InnoAdmin](https://github.com/funnlink/innoadmin)** — Rapid development scaffolding
+- InnoCRM — CRM platform for the software industry
+- InnoCard — Membership SaaS for service small businesses
+- InnoAdmin — Rapid development scaffolding
 
 ### AI & Data
 
-- **[InnoQuant](https://github.com/funnlink/innoquant)** — AI quant trading platform (Go + React)
-- **InnoMate** — AI content operations platform (MCP-native)
+- InnoQuant — AI quant trading platform (Go + React)
+- InnoMate — AI content operations platform (MCP-native)
 
 ### Developer Tools
 
@@ -116,14 +116,14 @@ FunnLink 由 Edward Yang（杨进）创立于成都，是一家以开源为核�
 
 - **[InnoShop](https://github.com/innocommerce/innoshop)** — 开源电商系统（Laravel 12），社区版 + 企业版 + 工厂版
 - **[InnoCMS](https://github.com/innocms/innocms)** — 轻量企业级 CMS，开源发行版
-- **[InnoCRM](https://github.com/innoshop/innocrm)** — 面向软件行业的 CRM 平台
-- **[InnoCard](https://github.com/funnlink/innocard)** — 服务业小商家会员管理 SaaS
-- **[InnoAdmin](https://github.com/funnlink/innoadmin)** — 快速开发底座
+- InnoCRM — 面向软件行业的 CRM 平台
+- InnoCard — 服务业小商家会员管理 SaaS
+- InnoAdmin — 快速开发底座
 
 ### AI 与数据
 
-- **[InnoQuant](https://github.com/funnlink/innoquant)** — AI 量化交易平台（Go + React）
-- **InnoMate** — AI 内容运营平台（MCP 原生）
+- InnoQuant — AI 量化交易平台（Go + React）
+- InnoMate — AI 内容运营平台（MCP 原生）
 
 ### 开发工具
 
