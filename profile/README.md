@@ -2,6 +2,21 @@
 
 # FunnLink
 
+**Open source, AI and quantitative-trading infrastructure**
+
+[Website](https://www.funnlink.com/) · [GitHub](https://github.com/funnlink) · [Twitter](https://twitter.com/funnlink)
+
+</div>
+
+---
+
+<details>
+<summary>🌐 中文版 (Chinese version — 点击展开)</summary>
+
+<div align="center">
+
+# FunnLink
+
 **成都帆连科技有限公司 · 开源、AI 与量化交易基础设施**
 
 [官网](https://www.funnlink.com/) · [GitHub](https://github.com/funnlink) · [Twitter](https://twitter.com/funnlink)
@@ -21,7 +36,7 @@ FunnLink 由 Edward Yang（杨进）创立于成都，是一家以开源为核�
 ## 🛠️ 产品矩阵
 
 ### 电商与商业
-- **[InnoShop](https://github.com/innocommerce/innoshop)** — 开源电商系统（Laravel 12），社区版 + 企业版 + 工厂版，覆盖国内外贸一体化场景
+- **[InnoShop](https://github.com/innocommerce/innoshop)** — 开源电商系统（Laravel 12），社区版 + 企业版 + 工厂版
 - **[InnoCMS](https://github.com/innocms/innocms)** — 轻量企业级 CMS，开源发行版
 - **[InnoCRM](https://github.com/innoshop/innocrm)** — 面向软件行业的 CRM 平台
 - **[InnoCard](https://github.com/funnlink/innocard)** — 服务业小商家会员管理 SaaS
@@ -38,16 +53,7 @@ FunnLink 由 Edward Yang（杨进）创立于成都，是一家以开源为核�
 
 ## 📊 技术栈
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-</p>
+PHP · Laravel · Go · React · TypeScript · Python · Redis · MySQL
 
 ---
 
@@ -63,7 +69,68 @@ FunnLink 由 Edward Yang（杨进）创立于成都，是一家以开源为核�
 
 ---
 
-## 📈 数据
+<div align="center">
+  <sub>Built with ❤️ by the FunnLink team in 成都</sub>
+</div>
+
+</details>
+
+---
+
+## About
+
+FunnLink, founded by Edward Yang in Chengdu, is a tech company that builds open-source-first, AI- and quantitative-trading-driven infrastructure for global developers. Our products span e-commerce systems, content platforms, and AI quant trading.
+
+We believe: **open source is not just code sharing — it's an export of engineering culture.**
+
+---
+
+## 🛠️ Products
+
+### Commerce
+- **[InnoShop](https://github.com/innocommerce/innoshop)** — Open-source e-commerce system (Laravel 12), Community / Enterprise / Factory editions
+- **[InnoCMS](https://github.com/innocms/innocms)** — Lightweight enterprise CMS, open-source distribution
+- **[InnoCRM](https://github.com/innoshop/innocrm)** — CRM platform for the software industry
+- **[InnoCard](https://github.com/funnlink/innocard)** — Membership SaaS for service small businesses
+- **[InnoAdmin](https://github.com/funnlink/innoadmin)** — Rapid development scaffolding
+
+### AI & Data
+- **[InnoQuant](https://github.com/funnlink/innoquant)** — AI quant trading platform (Go + React)
+- **InnoMate** — AI content operations platform (MCP-native)
+
+### Developer Tools
+- **[xmindpy](https://github.com/funnlink/xmindpy)** — Modern Python SDK for the XMind 2020+ JSON format
+
+---
+
+## 📊 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+## 🤝 Get in touch
+
+We welcome:
+
+- **Open-source contributions** — PRs, issues and feature ideas welcome in every repo
+- **Enterprise services** — InnoShop Enterprise, on-prem deployment, custom development
+- **Technical consulting** — E-commerce system architecture, quant trading system design
+
+📮 Contact: edward@innoshop.com
+
+---
+
+## 📈 Stats
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=funnlink&theme=github_dark" />
@@ -72,5 +139,5 @@ FunnLink 由 Edward Yang（杨进）创立于成都，是一家以开源为核�
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by the FunnLink team in 成都</sub>
+  <sub>Built with ❤️ by the FunnLink team in Chengdu, China</sub>
 </div>

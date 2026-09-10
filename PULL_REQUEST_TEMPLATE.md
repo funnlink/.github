@@ -1,3 +1,45 @@
+## What changed
+
+<!-- Brief description of what this PR does and why. -->
+
+## Related issue
+
+<!-- If applicable: Fixes #123 -->
+
+## Type of change
+
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Breaking change
+- [ ] Refactor (no functional change)
+- [ ] Documentation
+- [ ] Test
+- [ ] Chore / CI
+
+## Checklist
+
+- [ ] Self-reviewed (no leftover console.log / debug code)
+- [ ] Lint passes (e.g. `composer pint`)
+- [ ] Static analysis passes (e.g. `composer phpstan`)
+- [ ] Added / updated unit tests
+- [ ] Full test suite passes (`php artisan test` / `npm test`)
+- [ ] i18n strings synced (`lang/*.php`)
+- [ ] DB migrations included (if schema changed)
+- [ ] Manually verified UI changes (if frontend)
+
+## Screenshots / recordings
+
+<!-- Attach for UI changes. -->
+
+## Notes for reviewers
+
+<!-- Anything to pay special attention to: backwards compatibility, perf impact, etc. -->
+
+---
+
+<details>
+<summary>🌐 中文版 (点击展开)</summary>
+
 ## 改动说明
 
 <!-- 简明描述这个 PR 改了什么、为什么改 -->
@@ -34,3 +76,5 @@
 ## 注意事项
 
 <!-- 需要 reviewer 重点关注的点、向后兼容性、性能影响等 -->
+
+</details>

@@ -1,10 +1,42 @@
 ---
-name: Feature request ( 功能建议 )
-about: 提议一个新功能 — Suggest an idea for this project
+name: Feature request
+about: Suggest an idea — Suggest an idea for this project
 title: "[Feature] "
 labels: enhancement
 assignees: ''
 ---
+
+## Summary
+
+<!-- A clear and concise description of the feature you'd like. -->
+
+## Problem it solves
+
+<!-- What pain point does this address? What happens without it? -->
+
+## Proposed implementation
+
+<!-- If you have a specific approach in mind, briefly describe it. -->
+
+## Alternatives considered
+
+<!-- Other approaches you considered and why you didn't pick them. -->
+
+## Priority
+
+- [ ] Critical (core business path)
+- [ ] Important (frequently used)
+- [ ] Moderate (occasional need)
+- [ ] Low (nice to have)
+
+## Additional context
+
+<!-- Screenshots, mockups, related issues. -->
+
+---
+
+<details>
+<summary>🌐 中文版 (点击展开)</summary>
 
 ## 功能概述
 
@@ -32,3 +64,5 @@ assignees: ''
 ## 额外信息
 
 <!-- 截图、原型、相关 issue 等 -->
+
+</details>

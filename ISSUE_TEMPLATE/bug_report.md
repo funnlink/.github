@@ -1,10 +1,56 @@
 ---
-name: Bug report ( Bug 报告 )
-about: 报告一个具体的 Bug — Create a report to help us improve
+name: Bug report
+about: Report a bug — Create a report to help us improve
 title: "[Bug] "
 labels: bug
 assignees: ''
 ---
+
+## Description
+
+<!-- A clear and concise description of what the bug is. -->
+
+## Steps to reproduce
+
+1.
+2.
+3.
+
+## Expected behavior
+
+<!-- What you expected to happen. -->
+
+## Actual behavior
+
+<!-- What actually happened. -->
+
+## Screenshots / recordings
+
+<!-- If applicable, add screenshots to help explain. -->
+
+## Environment
+
+- Product / repo:
+- Version / commit:
+- PHP / Node / Python version:
+- Browser / client:
+- Database / cache:
+
+## Severity
+
+- [ ] Blocker (feature completely unusable)
+- [ ] Severe (major functionality affected)
+- [ ] Moderate (edge case or minor issue)
+- [ ] Minor (UI / wording / polish)
+
+## Additional context
+
+<!-- Any other relevant information. -->
+
+---
+
+<details>
+<summary>🌐 中文版 (点击展开)</summary>
 
 ## Bug 描述
 
@@ -12,11 +58,9 @@ assignees: ''
 
 ## 复现步骤
 
-<!-- 一步步描述如何触发这个 Bug -->
-
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
 ## 预期行为
 
@@ -28,7 +72,7 @@ assignees: ''
 
 ## 截图 / 录屏
 
-<!-- 如果有，添加截图帮助说明 -->
+<!-- 如果有,添加截图帮助说明 -->
 
 ## 环境信息
 
@@ -48,3 +92,5 @@ assignees: ''
 ## 额外信息
 
 <!-- 任何其他相关信息 -->
+
+</details>
