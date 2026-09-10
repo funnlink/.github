@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/avatar-420.png" alt="FunnLink" width="160" />
+
 # FunnLink
 
 **Open source, AI and quantitative-trading infrastructure**
@@ -87,6 +89,8 @@ We welcome:
 <summary>🌐 中文版 (Chinese version — 点击展开)</summary>
 
 <div align="center">
+
+<img src="assets/avatar-420.png" alt="FunnLink" width="160" />
 
 # FunnLink
 
